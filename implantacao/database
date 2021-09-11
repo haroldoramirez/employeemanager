@@ -1,0 +1,7 @@
+//User create specific user to mantain bests practiques
+CREATE USER 'sa_employee'@'localhost' IDENTIFIED BY 'sa_employee';
+FLUSH PRIVILEGES;
+GRANT SELECT ON * . * TO 'sa_employee'@'localhost';
+CREATE DATABASE employeemanager;
+GRANT ALL PRIVILEGES ON `employeemanager` . * TO 'sa_employee'@'localhost';
+FLUSH PRIVILEGES;
