@@ -19,7 +19,7 @@ public class EmployeeConfig {
                     "miriam@gmail.com",
                     "Analista de Sistemas",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "3030"
 
             );
@@ -28,7 +28,7 @@ public class EmployeeConfig {
                     "haroldo@gmail.com",
                     "Analista de Sistemas",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "4040"
 
             );
@@ -37,7 +37,7 @@ public class EmployeeConfig {
                     "bruna@gmail.com",
                     "Professora",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "1010"
 
             );
@@ -46,7 +46,7 @@ public class EmployeeConfig {
                     "diana@gmail.com",
                     "Aluno",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "0001"
 
             );
@@ -55,7 +55,7 @@ public class EmployeeConfig {
                     "marcos@gmail.com",
                     "Devops",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "1111"
 
             );
@@ -64,7 +64,7 @@ public class EmployeeConfig {
                     "liz@gmail.com",
                     "Gerente",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "2222"
 
             );
@@ -73,7 +73,7 @@ public class EmployeeConfig {
                     "meteoro@gmail.com",
                     "Jornalismo",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "3333"
 
             );
@@ -82,7 +82,7 @@ public class EmployeeConfig {
                     "eduardo@gmail.com",
                     "Historiador",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "4444"
 
             );
@@ -91,7 +91,7 @@ public class EmployeeConfig {
                     "carlos@gmail.com",
                     "Cagão",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "5555"
 
             );
@@ -100,7 +100,7 @@ public class EmployeeConfig {
                     "fallen@gmail.com",
                     "Pro Player",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "6666"
 
             );
@@ -109,7 +109,7 @@ public class EmployeeConfig {
                     "gregor@gmail.com",
                     "Analista de Negócios",
                     "1234567890",
-                    "path/to/image/image.jpg",
+                    "https://bootdey.com/img/Content/avatar/avatar3.png",
                     "7777"
 
             );
